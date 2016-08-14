@@ -1,0 +1,9 @@
+name: Humidity_calculator
+account: helgi
+server: shinyapps.io
+appId: 120068
+bundleId: 531750
+url: https://helgi.shinyapps.io/Humidity_calculator/
+when: 1471207753.98426
+asMultiple: FALSE
+asStatic: FALSE
